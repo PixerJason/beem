@@ -1,6 +1,22 @@
 # About This Script
 Welcome to the Beem python script! Beem is a messaging API that allows users to send messages to their contacts. This readme file provides an overview of the features and functionality of Beem.
 
+# installation
+
+```
+apt update && apt upgrade -y
+``` 
+
+```
+git clone https://github.com/PixerJason/beem.git
+``` 
+```
+cd beem
+``` 
+```
+python main.py
+``` 
+
 # Features of this script
 1.Good interface
 
@@ -16,3 +32,7 @@ Welcome to the Beem python script! Beem is a messaging API that allows users to 
 
 7.Capability of saving sent messages and showing them: Users can save a history of their sent messages and view them at any time for reference or record-keeping purposes.
 ![full](https://github.com/PixerJason/beem/blob/main/img/Screenshot%20from%202023-03-26%2019-14-36.png)
+
+## Credits
+
+All the credits to [PixerJason](https://t.me/PixerJason)
